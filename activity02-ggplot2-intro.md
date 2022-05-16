@@ -188,7 +188,8 @@ GitHub and compare/contrast your `activity02-ggplot2-intro.Rmd` and
 `activity02-ggplot2-intro.md` files. Which is easier to read? Which
 looks more professional?
 
-**Response**:
+**I definitely prefer the md file as it displays all the photos and a
+pretty view of the code and responses**:
 
 Now, wouldn’t it be nice if we could combine these two plots so that we
 get the benefits of both!?! That is, how can we overlay the jitterplot
@@ -201,7 +202,8 @@ my *hint*:
 Play around with doing the jitterplot laid over the boxplot and the
 boxplot laid over the jitterplot. Which do you prefer? Why?
 
-**Response**:
+**Definitely the jitter over the box plot because we are able to see the
+entire jitter points instead of half or so with the box plot**:
 
 This is getting us closer to one of my favorite plots - the raincloud
 plot. We are not quite ready to create this plot, but we will get there
@@ -220,7 +222,8 @@ aesthetics mapped in the different layers. For example, how does having
 all of them mapped in the `ggplot` call compared to having these instead
 mapped in the `geom_boxplot` layer? Comment on what you notice.
 
-**Response**:
+**What I notice is its easier on the eyes than just looking at a color
+blob and piecing together what it is**:
 
 Knit, then stage everything listed in your **Git** pane, commit (with a
 meaningful commit message), and push to your GitHub repo. Go to GitHub
