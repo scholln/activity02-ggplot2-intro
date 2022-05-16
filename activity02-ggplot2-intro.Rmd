@@ -120,7 +120,7 @@ ggplot(data = penguins, mapping = aes(x = flipper_length_mm, y = species, ___ = 
 
 Now, comment on what you notice from these boxplots.
 
-**Response**:
+**From these box plots we can see that Gentoo has a much larger flipper length compared to the other species**:
 
 
 Another way to visualize distributions are with points.
@@ -137,7 +137,7 @@ Comment on the strengths of the boxplot compared to the jitterplot and vice vers
 That is, what can you easily determine by looking at the boxplot?
 What about the jitterplot?
 
-**Response**:
+**The box plot is a cut and dry comparison of the spread of the varaibles but does have the weakness of not being able to see all the data points but a summary or metadata point of it**:
 
 
 Knit, then stage everything listed in your **Git** pane, commit (with a meaningful commit message), and push  to your GitHub repo.
