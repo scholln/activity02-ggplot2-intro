@@ -251,7 +251,8 @@ graphs). Using these three graphs to discuss which of these three
 categorical variables seems to be contributing more to these two peaks
 and explain your reasoning.
 
-**Response**:
+**My guess would be species as we see the biggest differences in that
+graph compared to the others**:
 
 Knit, then stage everything listed in your **Git** pane, commit (with a
 meaningful commit message), and push to your GitHub repo. Go to GitHub
