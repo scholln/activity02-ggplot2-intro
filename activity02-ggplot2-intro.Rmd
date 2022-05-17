@@ -238,7 +238,7 @@ In the code chunk below, create a scatterplot for the relationship between `flip
 
 Describe any patterns that you notice.
 
-**Response**:
+**We can see a correlation between the variables but not a strong correlation**:
 
 
 Recreate your scatterplot in the code chunk below; however,  *map* `species` to the `color` and `shape` aesthetics.
@@ -249,7 +249,7 @@ Recreate your scatterplot in the code chunk below; however,  *map* `species` to 
 
 Describe any patterns that you notice.
 
-**Response**:
+**The Gentoo species is definitely the largest penguins in terms of weight AND flipper length**:
 
 
 The previous plot looked great except even in this rather small dataset (n = 344), there might are a number of points overlapping.
@@ -261,7 +261,7 @@ In the R code chunk below, *set* the values (instead of mapping a variable to an
 
 Discuss the decisions you made to help your plot be easier to read.
 
-**Response**:
+**I chose sex and species because I believed those two values to have the greatest effect on the body mass and flipper length of the penguin.  That and Choosing finite values for alpha so it doesn't look too confusing and size to species**:
 
 
 
