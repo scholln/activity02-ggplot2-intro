@@ -147,13 +147,13 @@ code (i.e., replacing the `___`) to have our comparative boxplots also
 include some coloring.
 
 ``` r
-ggplot(data = penguins, mapping = aes(x = flipper_length_mm, y = species, ___ = ___)) +
+ggplot(data = penguins, mapping = aes(x = flipper_length_mm, y = species, fill = species)) +
   geom_boxplot()
 ```
 
-    ## Error: <text>:1:75: unexpected input
-    ## 1: ggplot(data = penguins, mapping = aes(x = flipper_length_mm, y = species, _
-    ##                                                                               ^
+    ## Warning: Removed 2 rows containing non-finite values (stat_boxplot).
+
+![](activity02-ggplot2-intro_files/figure-gfm/boxplot-colors-1.png)<!-- -->
 
 Now, comment on what you notice from these boxplots.
 
